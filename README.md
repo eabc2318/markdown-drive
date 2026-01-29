@@ -4,10 +4,10 @@ petit topo sur les commandes:
 
 - pour executer un fichier .ts
 
-* tsx fichier.ts *
+*tsx fichier.ts*
 
 - pour lancer le server (react)
 
-* npx vite *
+*npx vite**
 
-http://localhost:5173
+**http://localhost:5173**
