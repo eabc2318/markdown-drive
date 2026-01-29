@@ -8,6 +8,6 @@ petit topo sur les commandes:
 
 - pour lancer le server (react)
 
-*npx vite**
+*npx vite*
 
 **http://localhost:5173**
